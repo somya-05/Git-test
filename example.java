@@ -11,10 +11,12 @@ public class EvenOdd {
 
         if(num % 2 == 0)
             System.out.println(num + " is even");
-        else
-            System.out.println(num + " is odd");
+        else{
+		System.out.println(num + " is odd");
+System.out.println("done");	}	
     }
 }
-:wq
-:qw
+
+
+
 
